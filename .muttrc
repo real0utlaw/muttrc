@@ -1,0 +1,17 @@
+
+set from="icecubethunderbird@mailfence.com"
+set realname="Michael Jackson"
+
+set smtp_url="smtps://icecubethunderbird@mailfence.com:465/"
+# smtp_pass="arch676"
+
+ 
+set editor="vim"
+
+
+set imap_user="icecubethunderbird@mailfence.com"
+#set imap_pass="arch676"
+set folder="imaps://mailfence.com:993/"
+set spoolfile ="+INBOX"
+set imap_check_subscribed=yes
+#set sidebar_visible=yes
